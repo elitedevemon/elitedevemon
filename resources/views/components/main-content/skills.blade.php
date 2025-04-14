@@ -120,10 +120,10 @@
                               <div class="ar-skill-item box-item align-left">
                                 <div class="ar-skill-top">
                                   <div class="ar-skill-img"> <noscript><img
-                                        src="{{ asset('assets/wp-content/uploads/technologies/Tailwind_CSS.png') }}"
+                                        src="{{ asset('assets/wp-content/uploads/technologies/Tailwind_CSS.webp') }}"
                                         alt="Tailwind CSS" decoding="async"></noscript><img
                                       class="lazyload"
-                                      data-src="{{ asset('assets/wp-content/uploads/technologies/Tailwind_CSS.png') }}"
+                                      data-src="{{ asset('assets/wp-content/uploads/technologies/Tailwind_CSS.webp') }}"
                                       src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E'
                                       alt="Tailwind CSS" decoding="async"></div>
                                   <div class="ar-skill-label"> <span>Tailwind CSS</span></div>
@@ -150,16 +150,16 @@
                               <div class="ar-skill-item box-item align-left">
                                 <div class="ar-skill-top">
                                   <div class="ar-skill-img"> <noscript><img
-                                        src="{{ asset('assets/wp-content/uploads/sites/20/2024/06/icons8-aws-240-184x184.png') }}"
-                                        alt="Cloud: AWS" decoding="async"></noscript><img class="lazyload"
-                                      data-src="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/icons8-aws-240-184x184.png') }}"
+                                        src="{{ asset('assets/wp-content/uploads/technologies/mysql.webp') }}"
+                                        alt="MySQL" decoding="async"></noscript><img class="lazyload"
+                                      data-src="{{ asset('assets/wp-content/uploads/technologies/mysql.webp') }}"
                                       src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E'
-                                      alt="Cloud: AWS" decoding="async"></div>
-                                  <div class="ar-skill-label"> <span>Cloud: AWS</span></div>
+                                      alt="MySQL" decoding="async"></div>
+                                  <div class="ar-skill-label"> <span>MySQL</span></div>
                                 </div>
                                 <div class="ar-skill-progress"> <span class="progres"
-                                    style="width: 75%;"></span>
-                                </div> <span class="ar-skill-value">75%</span>
+                                    style="width: 80%;"></span>
+                                </div> <span class="ar-skill-value">80%</span>
                               </div>
                             </div>
                           </div>
@@ -216,75 +216,75 @@
                       <div class="skills-list circles count-four">
                         <ul>
                           <li class="border-line-h skills-list-img">
-                            <div class="name"> <span> Confluence </span></div>
-                            <div class="progress p75">
-                              <div class="percentage" style="width:75%;"></div> <span
+                            <div class="name"> <span> Laragon </span></div>
+                            <div class="progress p97">
+                              <div class="percentage" style="width:97%;"></div> <span
                                 class="lazyload progress-img"
-                                data-bg="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/icons8-confluence-240.png') }}"
-                                style="background-image: url(data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20500%20300%22%3E%3C/svg%3E);">75%</span>
+                                data-bg="{{ asset('assets/wp-content/uploads/technologies/laragon.png') }}"
+                                style="background-image: url(data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20500%20300%22%3E%3C/svg%3E);">97%</span>
                             </div>
                           </li>
                           <li class="border-line-h skills-list-img">
-                            <div class="name"> <span> JIRA </span></div>
-                            <div class="progress p75">
-                              <div class="percentage" style="width:75%;"></div> <span
+                            <div class="name"> <span> XAMPP </span></div>
+                            <div class="progress p90">
+                              <div class="percentage" style="width:90%;"></div> <span
                                 class="lazyload progress-img"
-                                data-bg="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/icons8-jira-240.png') }}"
-                                style="background-image: url(data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20500%20300%22%3E%3C/svg%3E);">75%</span>
+                                data-bg="{{ asset('assets/wp-content/uploads/technologies/xampp.png') }}"
+                                style="background-image: url(data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20500%20300%22%3E%3C/svg%3E);">90%</span>
                             </div>
                           </li>
                           <li class="border-line-h skills-list-img">
-                            <div class="name"> <span> DBeaver </span></div>
+                            <div class="name"> <span> Git </span></div>
                             <div class="progress p85">
                               <div class="percentage" style="width:85%;"></div> <span
                                 class="lazyload progress-img"
-                                data-bg="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/icons8-dbeaver-256.png') }}"
+                                data-bg="{{ asset('assets/wp-content/uploads/technologies/git.png') }}"
                                 style="background-image: url(data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20500%20300%22%3E%3C/svg%3E);">85%</span>
                             </div>
                           </li>
                           <li class="border-line-h skills-list-img">
-                            <div class="name"> <span> Azure Synapse </span></div>
+                            <div class="name"> <span> GitHub </span></div>
                             <div class="progress p95">
                               <div class="percentage" style="width:95%;"></div> <span
                                 class="lazyload progress-img"
-                                data-bg="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/icons8-development-experience-through-the-native-integrations-of-azure-with-visual-studio-96.png') }}"
+                                data-bg="{{ asset('assets/wp-content/uploads/technologies/github.png') }}"
                                 style="background-image: url(data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20500%20300%22%3E%3C/svg%3E);">95%</span>
                             </div>
                           </li>
                           <li class="border-line-h skills-list-img">
-                            <div class="name"> <span> GitLab </span></div>
-                            <div class="progress p75">
-                              <div class="percentage" style="width:75%;"></div> <span
+                            <div class="name"> <span> Postman </span></div>
+                            <div class="progress p98">
+                              <div class="percentage" style="width:98%;"></div> <span
                                 class="lazyload progress-img"
-                                data-bg="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/02/gitlab.png') }}"
-                                style="background-image: url(data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20500%20300%22%3E%3C/svg%3E);">75%</span>
+                                data-bg="{{ asset('assets/wp-content/uploads/technologies/postman.png') }}"
+                                style="background-image: url(data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20500%20300%22%3E%3C/svg%3E);">98%</span>
                             </div>
                           </li>
                           <li class="border-line-h skills-list-img">
                             <div class="name"> <span> ChatGPT </span></div>
-                            <div class="progress p80">
-                              <div class="percentage" style="width:80%;"></div> <span
+                            <div class="progress p99">
+                              <div class="percentage" style="width:99%;"></div> <span
                                 class="lazyload progress-img"
-                                data-bg="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/02/artificial-intelligence.png') }}"
-                                style="background-image: url(data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20500%20300%22%3E%3C/svg%3E);">80%</span>
+                                data-bg="{{ asset('assets/wp-content/uploads/technologies/chatgpt.png') }}"
+                                style="background-image: url(data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20500%20300%22%3E%3C/svg%3E);">99%</span>
                             </div>
                           </li>
                           <li class="border-line-h skills-list-img">
-                            <div class="name"> <span> Ansible </span></div>
+                            <div class="name"> <span> Composer </span></div>
                             <div class="progress p95">
                               <div class="percentage" style="width:95%;"></div> <span
                                 class="lazyload progress-img"
-                                data-bg="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/icons8-ansible-240-2.png') }}"
+                                data-bg="{{ asset('assets/wp-content/uploads/technologies/composer.png') }}"
                                 style="background-image: url(data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20500%20300%22%3E%3C/svg%3E);">95%</span>
                             </div>
                           </li>
                           <li class="border-line-h skills-list-img">
                             <div class="name"> <span> Visual Studio </span></div>
-                            <div class="progress p95">
-                              <div class="percentage" style="width:95%;"></div> <span
+                            <div class="progress p99">
+                              <div class="percentage" style="width:99%;"></div> <span
                                 class="lazyload progress-img"
-                                data-bg="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/02/visual-basic.png') }}"
-                                style="background-image: url(data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20500%20300%22%3E%3C/svg%3E);">95%</span>
+                                data-bg="{{ asset('assets/wp-content/uploads/technologies/vscode.png') }}"
+                                style="background-image: url(data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20500%20300%22%3E%3C/svg%3E);">99%</span>
                             </div>
                           </li>
                         </ul>
@@ -412,9 +412,8 @@
                       <div class="skills-list dotted">
                         <ul>
                           <li class="border-line-h skills-list-img"> <span class="lazyload progress-img"
-                              data-bg="https://bslthemes.com/import/ryancv/app-developer/uploads/2024/02/united-kingdom.png")
-                              style="background-image: url(data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20500%20300%22%3E%3C/svg%3E);"
-                              }}"></span>
+                              data-bg="https://bslthemes.com/import/ryancv/app-developer/uploads/2024/02/united-kingdom.png"
+                              style="background-image: url(data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20500%20300%22%3E%3C/svg%3E);"></span>
                             <div class="name"> <span> English </span></div>
                             <div class="progress">
                               <div class="percentage" style="width:90%;"></div> <span
@@ -422,19 +421,17 @@
                             </div>
                           </li>
                           <li class="border-line-h skills-list-img"> <span class="lazyload progress-img"
-                              data-bg="https://bslthemes.com/import/ryancv/app-developer/uploads/2024/02/spain.png")
-                              style="background-image: url(data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20500%20300%22%3E%3C/svg%3E);"
-                              }}"></span>
+                              data-bg="https://bslthemes.com/import/ryancv/app-developer/uploads/2024/02/spain.png"
+                              style="background-image: url(data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20500%20300%22%3E%3C/svg%3E);"></span>
                             <div class="name"> <span> Spanish </span></div>
                             <div class="progress">
-                              <div class="percentage" style="width:60%;"></div> <span
-                                class="progress-value">60%</span>
+                              <div class="percentage" style="width:35%;"></div> <span
+                                class="progress-value">35%</span>
                             </div>
                           </li>
                           <li class="border-line-h skills-list-img"> <span class="lazyload progress-img"
-                              data-bg="https://bslthemes.com/import/ryancv/app-developer/uploads/2024/02/italy.png")
-                              style="background-image: url(data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20500%20300%22%3E%3C/svg%3E);"
-                              }}"></span>
+                              data-bg="https://bslthemes.com/import/ryancv/app-developer/uploads/2024/02/italy.png"
+                              style="background-image: url(data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20500%20300%22%3E%3C/svg%3E);"></span>
                             <div class="name"> <span> Italian </span></div>
                             <div class="progress">
                               <div class="percentage" style="width:30%;"></div> <span
@@ -442,13 +439,12 @@
                             </div>
                           </li>
                           <li class="border-line-h skills-list-img"> <span class="lazyload progress-img"
-                              data-bg="https://bslthemes.com/import/ryancv/app-developer/uploads/2024/02/france.png")
-                              style="background-image: url(data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20500%20300%22%3E%3C/svg%3E);"
-                              }}"></span>
+                              data-bg="https://bslthemes.com/import/ryancv/app-developer/uploads/2024/02/france.png"
+                              style="background-image: url(data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20500%20300%22%3E%3C/svg%3E);"></span>
                             <div class="name"> <span> French </span></div>
                             <div class="progress">
-                              <div class="percentage" style="width:70%;"></div> <span
-                                class="progress-value">70%</span>
+                              <div class="percentage" style="width:40%;"></div> <span
+                                class="progress-value">40%</span>
                             </div>
                           </li>
                         </ul>
@@ -485,7 +481,7 @@
                       <div class="skills-list list">
                         <ul>
                           <li class="border-line-h">
-                            <div class="name"> <span> DWH &amp; DB Concepts </span></div>
+                            <div class="name"> <span> Code Structure &amp; Clean Architecture </span></div>
                             <div class="progress">
                               <div class="percentage"></div>
                             </div>
@@ -497,7 +493,7 @@
                             </div>
                           </li>
                           <li class="border-line-h">
-                            <div class="name"> <span> Data Preparation </span></div>
+                            <div class="name"> <span> Use Eloquent Relationships Wisely </span></div>
                             <div class="progress">
                               <div class="percentage"></div>
                             </div>
@@ -515,19 +511,19 @@
                             </div>
                           </li>
                           <li class="border-line-h">
-                            <div class="name"> <span> Data Provisioning </span></div>
+                            <div class="name"> <span> API &amp; JSON Response Standards </span></div>
                             <div class="progress">
                               <div class="percentage"></div>
                             </div>
                           </li>
                           <li class="border-line-h">
-                            <div class="name"> <span> Data Solution Architecture </span></div>
+                            <div class="name"> <span> Security Practices </span></div>
                             <div class="progress">
                               <div class="percentage"></div>
                             </div>
                           </li>
                           <li class="border-line-h">
-                            <div class="name"> <span> ETL/ELT Solutions </span></div>
+                            <div class="name"> <span> Code Optimization </span></div>
                             <div class="progress">
                               <div class="percentage"></div>
                             </div>

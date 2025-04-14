@@ -57,18 +57,16 @@
                                   <div class="ar-serv-icon"> <noscript><img
                                         src="{{ asset('assets/wp-content/uploads/sites/20/2024/05/serv-1-184x184.png') }}"
                                         alt="ETL Design" decoding="async"></noscript><img class="lazyload"
-                                      data-src="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/05/serv-1-184x184.png') }}"
+                                      data-src="{{ asset('assets/wp-content/uploads/sites/20/2024/05/serv-1-184x184.png') }}"
                                       src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E'
                                       alt="ETL Design" decoding="async"></div>
                                   <div class="ar-serv-head">
                                     <div class="ar-serv-subtitle"> <span>2 Developers</span></div>
-                                    <div class="ar-serv-title"> <span>ETL Design</span></div>
+                                    <div class="ar-serv-title"> <span>UI/UX Design</span></div>
                                   </div>
                                 </div>
                                 <div class="ar-serv-text">
-                                  <p>Data models in SAP PowerDesigner ETL process design &amp;
-                                    implementation:
-                                    Apache Airflow / AWS / Python.</p>
+                                  <p>Web app design with Bootstrap &amp; TailwindCSS. Ecommerce, HR management software, Education related application etc.</p>
                                 </div> <a class="ar-serv-lnk custom-lnk" href="#contact-form"> <span>Get
                                     Started</span> </a>
                               </div>
@@ -93,18 +91,16 @@
                                         src="{{ asset('assets/wp-content/uploads/sites/20/2024/05/serv-2-184x151.png') }}"
                                         alt="ETL Development" decoding="async"></noscript><img
                                       class="lazyload"
-                                      data-src="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/05/serv-2-184x151.png') }}"
+                                      data-src="{{ asset('assets/wp-content/uploads/sites/20/2024/05/serv-2-184x151.png') }}"
                                       src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E'
                                       alt="ETL Development" decoding="async"></div>
                                   <div class="ar-serv-head">
-                                    <div class="ar-serv-subtitle"> <span>5 Developers</span></div>
-                                    <div class="ar-serv-title"> <span>ETL Development</span></div>
+                                    <div class="ar-serv-subtitle"> <span>3 Developers</span></div>
+                                    <div class="ar-serv-title"> <span>Laravel Development</span></div>
                                   </div>
                                 </div>
                                 <div class="ar-serv-text">
-                                  <p>ETL pipelines according to the DWH design and architecture (Azure
-                                    Synapse,
-                                    Databricks, Azure DevOps).</p>
+                                  <p>Payment gateway integration, Security practices, Error handling &amp; logging, Cron jobs &amp; events, Code optimization etc.</p>
                                 </div> <a class="ar-serv-lnk custom-lnk" href="#contact-form"> <span>Get
                                     Started</span> </a>
                               </div>
@@ -134,19 +130,16 @@
                                   <div class="ar-serv-icon"> <noscript><img
                                         src="{{ asset('assets/wp-content/uploads/sites/20/2024/05/serv-3-184x184.png') }}"
                                         alt="Azure Cloud" decoding="async"></noscript><img class="lazyload"
-                                      data-src="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/05/serv-3-184x184.png') }}"
+                                      data-src="{{ asset('assets/wp-content/uploads/sites/20/2024/05/serv-3-184x184.png') }}"
                                       src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E'
                                       alt="Azure Cloud" decoding="async"></div>
                                   <div class="ar-serv-head">
-                                    <div class="ar-serv-subtitle"> <span>3 Developers</span></div>
-                                    <div class="ar-serv-title"> <span>Azure Cloud</span></div>
+                                    <div class="ar-serv-subtitle"> <span>2 Developers</span></div>
+                                    <div class="ar-serv-title"> <span>Performance</span></div>
                                   </div>
                                 </div>
                                 <div class="ar-serv-text">
-                                  <p>Rebuild of legacy on-premise Oracle-based data warehouse to a data
-                                    lake
-                                    based
-                                    on Azure Cloud.</p>
+                                  <p>Use caching, Complex eloquent relationship for better database searching which can increase the speed and scalability.</p>
                                 </div> <a class="ar-serv-lnk custom-lnk" href="#contact-form"> <span>Get
                                     Started</span> </a>
                               </div>
@@ -171,7 +164,7 @@
                                         src="{{ asset('assets/wp-content/uploads/sites/20/2024/05/serv-4-184x190.png') }}"
                                         alt="Technical Preparation" decoding="async"></noscript><img
                                       class="lazyload"
-                                      data-src="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/05/serv-4-184x190.png') }}"
+                                      data-src="{{ asset('assets/wp-content/uploads/sites/20/2024/05/serv-4-184x190.png') }}"
                                       src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E'
                                       alt="Technical Preparation" decoding="async"></div>
                                   <div class="ar-serv-head">
@@ -248,18 +241,21 @@
                             <div class="styled-gradient styled-gradient-border">
                               <div class="ar-pricing-item box-item align-left">
                                 <div class="name"> <span> per hour </span></div>
-                                <div class="amount"> <span> $29 </span></div> <a class="ar-lnk custom-lnk"
+                                <div class="amount"> <span> $10 </span></div> <a class="ar-lnk custom-lnk"
                                   href="#contact-form"> <span class="text">
                                     <span> Order Now </span>
                                   </span> </a>
                                 <div class="feature-list">
                                   <div>
                                     <ul>
-                                      <li>Create data models in SAP PowerDesigner</li>
-                                      <li>Preparation and participation in POCs and demos</li>
+                                      <li>Bootstrap / Tailwind CSS Frontend Design for Laravel Projects</li>
+                                      <li>Responsive Multi-device Web Layouts</li>
+                                      <li>Performance Optimization for Laravel Applications</li>
+                                      <li>Server Deployment and Laravel Project Hosting (Shared / VPS / AWS / DigitalOcean etc)</li>
+                                      <li><span style="text-decoration: line-through">Convert Existing PHP Projects to Laravel Framework</span></li>
                                       <li><span style="text-decoration: line-through">Development and
-                                          implementation of ETL pipelines</span></li>
-                                      <li><span style="text-decoration: line-through">Extended Support 6
+                                          implementation new functions and features.</span></li>
+                                      <li><span style="text-decoration: line-through">Extended Support 3
                                           months</span></li>
                                     </ul>
                                   </div>
@@ -282,16 +278,21 @@
                             <div class="styled-gradient styled-gradient-border">
                               <div class="ar-pricing-item box-item align-left">
                                 <div class="name"> <span> per day </span></div>
-                                <div class="amount"> <span> $119 </span></div> <a class="ar-lnk custom-lnk"
+                                <div class="amount"> <span> $50 </span></div> <a class="ar-lnk custom-lnk"
                                   href="#contact-form"> <span class="text">
                                     <span> Order Now </span> </span> </a>
                                 <div class="feature-list">
                                   <div>
                                     <ul>
-                                      <li>Create data models in SAP PowerDesigner</li>
-                                      <li>Preparation and participation in POCs and demos</li>
-                                      <li>Development and implementation of ETL pipelines</li>
-                                      <li>Extended Support 6 months</li>
+                                      <li>Bootstrap / Tailwind CSS Frontend Design for Laravel Projects</li>
+                                      <li>Responsive Multi-device Web Layouts</li>
+                                      <li>Performance Optimization for Laravel Applications</li>
+                                      <li>Server Deployment and Laravel Project Hosting (Shared / VPS / AWS / DigitalOcean etc)</li>
+                                      <li>Convert Existing PHP Projects to Laravel Framework</li>
+                                      <li>Development and
+                                          implementation new functions and features.</li>
+                                      <li>Extended Support 3
+                                          months</li>
                                     </ul>
                                   </div>
                                 </div>

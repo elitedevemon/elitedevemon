@@ -30,7 +30,7 @@
             </div>
           </div>
         </section>
-        <section
+        {{-- <section
           class="elementor-section elementor-top-section elementor-element elementor-element-7fc19e2 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
           data-id="7fc19e2" data-element_type="section">
           <div class="elementor-container elementor-column-gap-custom">
@@ -109,10 +109,10 @@
               </div>
             </div>
           </div>
-        </section>
+        </section> --}}
         <section
           class="elementor-section elementor-top-section elementor-element elementor-element-f86036b elementor-section-full_width elementor-section-height-default elementor-section-height-default"
-          data-id="f86036b" data-element_type="section">
+          data-id="f86036b" data-element_type="section" style="margin-top: 10px">
           <div class="elementor-container elementor-column-gap-custom">
             <div
               class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2685b96"
@@ -140,29 +140,28 @@
                     <div class="resume-item styled-gradient">
                       <div class="resume-items line-timeline">
                         <div class="resume-item border-line-h">
-                          <div class="date"> <span> 2017 - 2018 </span></div>
-                          <div class="name"> <span> Michigan Technological Courses </span></div>
-                          <div class="company"> <span> Houghton </span></div>
+                          <div class="date"> <span> 2024 </span></div>
+                          <div class="name"> <span> Certificate of completion course </span></div>
+                          <div class="company"> <span> Udemy </span></div>
                           <div class="single-post-text">
                             <div>
-                              <p>Michigan Technological University offers a B.S. Computer Network.</p>
+                              <p>Laravel - Build Multi Vendor Ecommerce Website (2024)</p>
                             </div>
-                          </div> <a class="lnk lnk-2"
-                            href="../import/ryancv/sysadmin/uploads/2022/07/certificate.jpeg"> <span
-                              class="text"> Certificate </span> <i class="fas fa-angle-right"></i>
+                          </div>
+                          <a class="lnk lnk-2" target="_blank"
+                            href="{{ asset('assets/wp-content/uploads/certificates/udemy_certificate.jpg') }}"> Certificate <i class="fas fa-angle-right"></i>
                           </a>
                         </div>
                         <div class="resume-item border-line-h">
-                          <div class="date"> <span> 2016 - 2017 </span></div>
-                          <div class="name"> <span> Computer Science Major </span></div>
-                          <div class="company"> <span> New York </span></div>
+                          <div class="date"> <span> 2023 </span></div>
+                          <div class="name"> <span> Certificate of completion </span></div>
+                          <div class="company"> <span> Udemy </span></div>
                           <div class="single-post-text">
                             <div>
-                              <p>Management Information Systems, which focuses on information systems
-                                design.</p>
+                              <p>Laravel - Payment gateway integration (2023)</p>
                             </div>
                           </div> <a class="lnk lnk-2"
-                            href="../import/ryancv/sysadmin/uploads/2022/07/certificate.jpeg"> <span
+                            href="{{ asset('assets/wp-content/uploads/certificates/udemy_certificate.jpg') }}"> <span
                               class="text"> Certificate </span> <i class="fas fa-angle-right"></i>
                           </a>
                         </div>
@@ -198,45 +197,43 @@
                     <div class="resume-item styled-gradient">
                       <div class="resume-items line-timeline">
                         <div class="resume-item border-line-h">
-                          <div class="image"> <a href="https://www.bslthemes.com/" target="_blank">
+                          <div class="image"> <a href="https://www.facebook.com/elitedevemon" target="_blank">
                               <noscript><img
                                   src="{{ asset('assets/wp-content/uploads/sites/20/2024/06/brand-3-456x512-1-1.png') }}"
                                   alt="BA in Computer Technologies" decoding="async"></noscript><img
                                 class="lazyload"
-                                data-src="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/brand-3-456x512-1-1.png') }}"
+                                data-src="{{ asset('assets/wp-content/uploads/sites/20/2024/06/brand-3-456x512-1-1.png') }}"
                                 src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E'
                                 alt="BA in Computer Technologies" decoding="async"> </a></div>
-                          <div class="date"> <span> 2012 - 2016 </span></div>
-                          <div class="name"> <span> BA in Computer Technologies </span></div>
-                          <div class="company"> <span> Carson, USA </span></div>
+                          <div class="date"> <span> 2020-2024 </span></div>
+                          <div class="name"> <span> BSC in Computer Science </span></div>
+                          <div class="company"> <span> Rabindra Maitri University, Kushtia </span></div>
                           <div class="single-post-text">
                             <div>
                               <p>Engineering design process to design, develop, test, maintain, software.
                               </p>
                             </div>
-                          </div> <a class="lnk lnk-2" href="https://www.bslthemes.com/" target="_blank">
+                          </div> <a class="lnk lnk-2" href="https://www.facebook.com/elitedevemon" target="_blank">
                             <span class="text"> learn more </span> <i class="fas fa-angle-right"></i>
                           </a>
                         </div>
                         <div class="resume-item border-line-h">
-                          <div class="image"> <a href="https://www.bslthemes.com/" target="_blank">
+                          <div class="image"> <a href="https://www.facebook.com/elitedevemon" target="_blank">
                               <noscript><img
                                   src="{{ asset('assets/wp-content/uploads/sites/20/2024/06/brand-2-458x512-1.png') }}"
                                   alt="Whitney High School" decoding="async"></noscript><img
                                 class="lazyload"
-                                data-src="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/brand-2-458x512-1.png') }}"
+                                data-src="{{ asset('assets/wp-content/uploads/sites/20/2024/06/brand-2-458x512-1.png') }}"
                                 src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E'
                                 alt="Whitney High School" decoding="async"> </a></div>
-                          <div class="date"> <span> 2004 - 2012 </span></div>
-                          <div class="name"> <span> Whitney High School </span></div>
-                          <div class="company"> <span> Los Angeles, USA </span></div>
+                          <div class="date"> <span> 2016 - 2018 </span></div>
+                          <div class="name"> <span> Kushtia Govt. Central College </span></div>
+                          <div class="company"> <span> Kushtia, Khulna </span></div>
                           <div class="single-post-text">
                             <div>
-                              <p>Crafting captivating digital experiences that put users at the heart of
-                                the
-                                design.</p>
+                              <p>Completed HSC</p>
                             </div>
-                          </div> <a class="lnk lnk-2" href="https://www.bslthemes.com/" target="_blank">
+                          </div> <a class="lnk lnk-2" href="https://www.facebook.com/elitedevemon" target="_blank">
                             <span class="text"> learn more </span> <i class="fas fa-angle-right"></i>
                           </a>
                         </div>
@@ -314,7 +311,7 @@
                                         src="{{ asset('assets/wp-content/uploads/sites/20/2024/06/r1-184x204.jpg') }}"
                                         alt="Bryn Hooper" decoding="async"></noscript><img
                                       class="lazyload"
-                                      data-src="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/r1-184x204.jpg') }}"
+                                      data-src="{{ asset('assets/wp-content/uploads/sites/20/2024/06/r1-184x204.jpg') }}"
                                       src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E'
                                       alt="Bryn Hooper" decoding="async"></div>
                                   <div class="info">
@@ -347,7 +344,7 @@
                                         src="{{ asset('assets/wp-content/uploads/sites/20/2024/06/r2-184x204.jpg') }}"
                                         alt="Caspar Baldwin" decoding="async"></noscript><img
                                       class="lazyload"
-                                      data-src="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/r2-184x204.jpg') }}"
+                                      data-src="{{ asset('assets/wp-content/uploads/sites/20/2024/06/r2-184x204.jpg') }}"
                                       src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E'
                                       alt="Caspar Baldwin" decoding="async"></div>
                                   <div class="info">
@@ -380,7 +377,7 @@
                                         src="{{ asset('assets/wp-content/uploads/sites/20/2024/06/r3-184x204.jpg') }}"
                                         alt="Clayton Ayers" decoding="async"></noscript><img
                                       class="lazyload"
-                                      data-src="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/r3-184x204.jpg') }}"
+                                      data-src="{{ asset('assets/wp-content/uploads/sites/20/2024/06/r3-184x204.jpg') }}"
                                       src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E'
                                       alt="Clayton Ayers" decoding="async"></div>
                                   <div class="info">
@@ -398,189 +395,6 @@
                     </div>
                   </div>
                 </div>
-              </div>
-            </div>
-          </div>
-        </section>
-        <section
-          class="elementor-section elementor-top-section elementor-element elementor-element-6825b31 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
-          data-id="6825b31" data-element_type="section">
-          <div class="elementor-container elementor-column-gap-no">
-            <div
-              class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d85f67c"
-              data-id="d85f67c" data-element_type="column">
-              <div class="elementor-widget-wrap elementor-element-populated">
-                <section
-                  class="elementor-section elementor-inner-section elementor-element elementor-element-45078d97 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
-                  data-id="45078d97" data-element_type="section">
-                  <div class="elementor-container elementor-column-gap-custom">
-                    <div
-                      class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-4903948f"
-                      data-id="4903948f" data-element_type="column">
-                      <div class="elementor-widget-wrap elementor-element-populated">
-                        <div
-                          class="elementor-element elementor-element-31dc35b elementor-widget__width-auto elementor-widget elementor-widget-heading"
-                          data-id="31dc35b" data-element_type="widget"
-                          data-widget_type="heading.default">
-                          <div class="elementor-widget-container">
-                            <div class="elementor-heading-title elementor-size-default">More than <span
-                                style="color:#28e98c">200+ companies</span> trusted us worldwide</div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </section>
-                <section
-                  class="elementor-section elementor-inner-section elementor-element elementor-element-3299bd7 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
-                  data-id="3299bd7" data-element_type="section">
-                  <div class="elementor-container elementor-column-gap-custom">
-                    <div
-                      class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-8a29f67"
-                      data-id="8a29f67" data-element_type="column">
-                      <div class="elementor-widget-wrap elementor-element-populated">
-                        <div
-                          class="elementor-element elementor-element-e08ea37 elementor-widget elementor-widget-image"
-                          data-id="e08ea37" data-element_type="widget" data-widget_type="image.default">
-                          <div class="elementor-widget-container"> <a href="https://bslthemes.com"
-                              target="_blank"> <noscript><img
-                                  class="attachment-medium_large size-medium_large wp-image-1822"
-                                  src="{{ asset('assets/wp-content/uploads/sites/20/2024/06/b1.png') }}"
-                                  srcset="{{ asset('assets/wp-content/uploads/sites/20/2024/06/b1.png') }} 448w, {{ asset('assets/wp-content/uploads/sites/20/2024/06/b1-300x169.png') }} 300w, {{ asset('assets/wp-content/uploads/sites/20/2024/06/b1-184x104.png') }} 184w"
-                                  alt="" loading="lazy" decoding="async" width="448"
-                                  height="252" sizes="(max-width: 448px) 100vw, 448px"></noscript><img
-                                class="lazyload attachment-medium_large size-medium_large wp-image-1822"
-                                data-src="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/b1.png') }}"
-                                data-srcset="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/b1.png') }} 448w, https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/b1-300x169.png') }} 300w, https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/b1-184x104.png') }} 184w"
-                                data-sizes="(max-width: 448px) 100vw, 448px"
-                                src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20448%20252%22%3E%3C/svg%3E'
-                                alt="" loading="lazy" decoding="async" width="448"
-                                height="252"> </a></div>
-                        </div>
-                      </div>
-                    </div>
-                    <div
-                      class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-629137a"
-                      data-id="629137a" data-element_type="column">
-                      <div class="elementor-widget-wrap elementor-element-populated">
-                        <div
-                          class="elementor-element elementor-element-1fd21d0 elementor-widget elementor-widget-image"
-                          data-id="1fd21d0" data-element_type="widget" data-widget_type="image.default">
-                          <div class="elementor-widget-container"> <a href="https://bslthemes.com"
-                              target="_blank"> <noscript><img
-                                  class="attachment-medium_large size-medium_large wp-image-1823"
-                                  src="{{ asset('assets/wp-content/uploads/sites/20/2024/06/b2.png') }}"
-                                  srcset="{{ asset('assets/wp-content/uploads/sites/20/2024/06/b2.png') }} 448w, {{ asset('assets/wp-content/uploads/sites/20/2024/06/b2-300x169.png') }} 300w, {{ asset('assets/wp-content/uploads/sites/20/2024/06/b2-184x104.png') }} 184w"
-                                  alt="" loading="lazy" decoding="async" width="448"
-                                  height="252" sizes="(max-width: 448px) 100vw, 448px"></noscript><img
-                                class="lazyload attachment-medium_large size-medium_large wp-image-1823"
-                                data-src="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/b2.png') }}"
-                                data-srcset="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/b2.png') }} 448w, https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/b2-300x169.png') }} 300w, https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/b2-184x104.png') }} 184w"
-                                data-sizes="(max-width: 448px) 100vw, 448px"
-                                src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20448%20252%22%3E%3C/svg%3E'
-                                alt="" loading="lazy" decoding="async" width="448"
-                                height="252"> </a></div>
-                        </div>
-                      </div>
-                    </div>
-                    <div
-                      class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-d4b093a"
-                      data-id="d4b093a" data-element_type="column">
-                      <div class="elementor-widget-wrap elementor-element-populated">
-                        <div
-                          class="elementor-element elementor-element-e9bc6c4 elementor-widget elementor-widget-image"
-                          data-id="e9bc6c4" data-element_type="widget" data-widget_type="image.default">
-                          <div class="elementor-widget-container"> <a href="https://bslthemes.com"
-                              target="_blank"> <noscript><img
-                                  class="attachment-medium_large size-medium_large wp-image-1824"
-                                  src="{{ asset('assets/wp-content/uploads/sites/20/2024/06/b3.png') }}"
-                                  srcset="{{ asset('assets/wp-content/uploads/sites/20/2024/06/b3.png') }} 448w, {{ asset('assets/wp-content/uploads/sites/20/2024/06/b3-300x169.png') }} 300w, {{ asset('assets/wp-content/uploads/sites/20/2024/06/b3-184x104.png') }} 184w"
-                                  alt="" loading="lazy" decoding="async" width="448"
-                                  height="252" sizes="(max-width: 448px) 100vw, 448px"></noscript><img
-                                class="lazyload attachment-medium_large size-medium_large wp-image-1824"
-                                data-src="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/b3.png') }}"
-                                data-srcset="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/b3.png') }} 448w, https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/b3-300x169.png') }} 300w, https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/b3-184x104.png') }} 184w"
-                                data-sizes="(max-width: 448px) 100vw, 448px"
-                                src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20448%20252%22%3E%3C/svg%3E'
-                                alt="" loading="lazy" decoding="async" width="448"
-                                height="252"> </a></div>
-                        </div>
-                      </div>
-                    </div>
-                    <div
-                      class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-0adeab9"
-                      data-id="0adeab9" data-element_type="column">
-                      <div class="elementor-widget-wrap elementor-element-populated">
-                        <div
-                          class="elementor-element elementor-element-2857581 elementor-widget elementor-widget-image"
-                          data-id="2857581" data-element_type="widget" data-widget_type="image.default">
-                          <div class="elementor-widget-container"> <a href="https://bslthemes.com"
-                              target="_blank"> <noscript><img
-                                  class="attachment-medium_large size-medium_large wp-image-1825"
-                                  src="{{ asset('assets/wp-content/uploads/sites/20/2024/06/b4.png') }}"
-                                  srcset="{{ asset('assets/wp-content/uploads/sites/20/2024/06/b4.png') }} 448w, {{ asset('assets/wp-content/uploads/sites/20/2024/06/b4-300x169.png') }} 300w, {{ asset('assets/wp-content/uploads/sites/20/2024/06/b4-184x104.png') }} 184w"
-                                  alt="" loading="lazy" decoding="async" width="448"
-                                  height="252" sizes="(max-width: 448px) 100vw, 448px"></noscript><img
-                                class="lazyload attachment-medium_large size-medium_large wp-image-1825"
-                                data-src="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/b4.png') }}"
-                                data-srcset="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/b4.png') }} 448w, https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/b4-300x169.png') }} 300w, https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/b4-184x104.png') }} 184w"
-                                data-sizes="(max-width: 448px) 100vw, 448px"
-                                src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20448%20252%22%3E%3C/svg%3E'
-                                alt="" loading="lazy" decoding="async" width="448"
-                                height="252"> </a></div>
-                        </div>
-                      </div>
-                    </div>
-                    <div
-                      class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-26e09b3"
-                      data-id="26e09b3" data-element_type="column">
-                      <div class="elementor-widget-wrap elementor-element-populated">
-                        <div
-                          class="elementor-element elementor-element-c4a452e elementor-widget elementor-widget-image"
-                          data-id="c4a452e" data-element_type="widget" data-widget_type="image.default">
-                          <div class="elementor-widget-container"> <a href="https://bslthemes.com"
-                              target="_blank"> <noscript><img
-                                  class="attachment-medium_large size-medium_large wp-image-1822"
-                                  src="{{ asset('assets/wp-content/uploads/sites/20/2024/06/b1.png') }}"
-                                  srcset="{{ asset('assets/wp-content/uploads/sites/20/2024/06/b1.png') }} 448w, {{ asset('assets/wp-content/uploads/sites/20/2024/06/b1-300x169.png') }} 300w, {{ asset('assets/wp-content/uploads/sites/20/2024/06/b1-184x104.png') }} 184w"
-                                  alt="" loading="lazy" decoding="async" width="448"
-                                  height="252" sizes="(max-width: 448px) 100vw, 448px"></noscript><img
-                                class="lazyload attachment-medium_large size-medium_large wp-image-1822"
-                                data-src="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/b1.png') }}"
-                                data-srcset="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/b1.png') }} 448w, https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/b1-300x169.png') }} 300w, https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/b1-184x104.png') }} 184w"
-                                data-sizes="(max-width: 448px) 100vw, 448px"
-                                src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20448%20252%22%3E%3C/svg%3E'
-                                alt="" loading="lazy" decoding="async" width="448"
-                                height="252"> </a></div>
-                        </div>
-                      </div>
-                    </div>
-                    <div
-                      class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-ab4010a"
-                      data-id="ab4010a" data-element_type="column">
-                      <div class="elementor-widget-wrap elementor-element-populated">
-                        <div
-                          class="elementor-element elementor-element-40af0da elementor-widget elementor-widget-image"
-                          data-id="40af0da" data-element_type="widget" data-widget_type="image.default">
-                          <div class="elementor-widget-container"> <a href="https://bslthemes.com"
-                              target="_blank"> <noscript><img
-                                  class="attachment-medium_large size-medium_large wp-image-1823"
-                                  src="{{ asset('assets/wp-content/uploads/sites/20/2024/06/b2.png') }}"
-                                  srcset="{{ asset('assets/wp-content/uploads/sites/20/2024/06/b2.png') }} 448w, {{ asset('assets/wp-content/uploads/sites/20/2024/06/b2-300x169.png') }} 300w, {{ asset('assets/wp-content/uploads/sites/20/2024/06/b2-184x104.png') }} 184w"
-                                  alt="" loading="lazy" decoding="async" width="448"
-                                  height="252" sizes="(max-width: 448px) 100vw, 448px"></noscript><img
-                                class="lazyload attachment-medium_large size-medium_large wp-image-1823"
-                                data-src="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/b2.png') }}"
-                                data-srcset="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/b2.png') }} 448w, https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/b2-300x169.png') }} 300w, https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/b2-184x104.png') }} 184w"
-                                data-sizes="(max-width: 448px) 100vw, 448px"
-                                src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20448%20252%22%3E%3C/svg%3E'
-                                alt="" loading="lazy" decoding="async" width="448"
-                                height="252"> </a></div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </section>
               </div>
             </div>
           </div>
