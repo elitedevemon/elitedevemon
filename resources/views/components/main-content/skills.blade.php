@@ -54,17 +54,17 @@
                               <div class="ar-skill-item box-item align-left">
                                 <div class="ar-skill-top">
                                   <div class="ar-skill-img"> <noscript><img
-                                        src="{{ asset('assets/wp-content/uploads/sites/20/2024/06/icons8-python-240-184x184.png') }}"
-                                        alt="Python" decoding="async"></noscript><img
+                                        src="{{ asset('assets/wp-content/uploads/technologies/php.png') }}"
+                                        alt="PHP" decoding="async"></noscript><img
                                       class="lazyload"
-                                      data-src="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/icons8-python-240-184x184.png') }}"
+                                      data-src="{{ asset('assets/wp-content/uploads/technologies/php.png') }}"
                                       src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E'
-                                      alt="Python" decoding="async"></div>
-                                  <div class="ar-skill-label"> <span>Python</span></div>
+                                      alt="PHP" decoding="async"></div>
+                                  <div class="ar-skill-label"> <span>PHP</span></div>
                                 </div>
                                 <div class="ar-skill-progress"> <span class="progres"
-                                    style="width: 95%;"></span>
-                                </div> <span class="ar-skill-value">95%</span>
+                                    style="width: 85%;"></span>
+                                </div> <span class="ar-skill-value">85%</span>
                               </div>
                             </div>
                           </div>
@@ -84,17 +84,17 @@
                               <div class="ar-skill-item box-item align-left">
                                 <div class="ar-skill-top">
                                   <div class="ar-skill-img"> <noscript><img
-                                        src="{{ asset('assets/wp-content/uploads/sites/20/2024/06/icons8-postgresql-240-184x184.png') }}"
-                                        alt="PostgreSQL" decoding="async"></noscript><img
+                                        src="{{ asset('assets/wp-content/uploads/technologies/Laravel.png') }}"
+                                        alt="Laravel" decoding="async"></noscript><img
                                       class="lazyload"
-                                      data-src="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/icons8-postgresql-240-184x184.png') }}"
+                                      data-src="{{ asset('assets/wp-content/uploads/technologies/Laravel.png') }}"
                                       src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E'
-                                      alt="PostgreSQL" decoding="async"></div>
-                                  <div class="ar-skill-label"> <span>PostgreSQL</span></div>
+                                      alt="Laravel" decoding="async"></div>
+                                  <div class="ar-skill-label"> <span>Laravel</span></div>
                                 </div>
                                 <div class="ar-skill-progress"> <span class="progres"
-                                    style="width: 85%;"></span>
-                                </div> <span class="ar-skill-value">85%</span>
+                                    style="width: 95%;"></span>
+                                </div> <span class="ar-skill-value">95%</span>
                               </div>
                             </div>
                           </div>
@@ -120,17 +120,17 @@
                               <div class="ar-skill-item box-item align-left">
                                 <div class="ar-skill-top">
                                   <div class="ar-skill-img"> <noscript><img
-                                        src="{{ asset('assets/wp-content/uploads/sites/20/2024/06/icons8-azure-240-184x184.png') }}"
-                                        alt="Microsoft Azure" decoding="async"></noscript><img
+                                        src="{{ asset('assets/wp-content/uploads/technologies/Tailwind_CSS.png') }}"
+                                        alt="Tailwind CSS" decoding="async"></noscript><img
                                       class="lazyload"
-                                      data-src="https://ryancv.bslthemes.com/dataops/{{ asset('assets/wp-content/uploads/sites/20/2024/06/icons8-azure-240-184x184.png') }}"
+                                      data-src="{{ asset('assets/wp-content/uploads/technologies/Tailwind_CSS.png') }}"
                                       src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E'
-                                      alt="Microsoft Azure" decoding="async"></div>
-                                  <div class="ar-skill-label"> <span>Microsoft Azure</span></div>
+                                      alt="Tailwind CSS" decoding="async"></div>
+                                  <div class="ar-skill-label"> <span>Tailwind CSS</span></div>
                                 </div>
                                 <div class="ar-skill-progress"> <span class="progres"
-                                    style="width: 80%;"></span>
-                                </div> <span class="ar-skill-value">80%</span>
+                                    style="width: 98%;"></span>
+                                </div> <span class="ar-skill-value">98%</span>
                               </div>
                             </div>
                           </div>
