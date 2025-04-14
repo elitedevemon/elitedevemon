@@ -1,15 +1,3 @@
----
-title: "Dynamic Multi-Vendor E-Commerce Platform with Laravel & AJAX"
-author: "Elite Dev Emon | elitedevemon | elitedev_emon"
-tags: Multi-Vendor E-Commerce, Laravel, PHP, Bootstrap, AJAX, Full-Stack Development, Web Application, E-Commerce Website, Online Marketplace, Laravel Development
----
-
-# Dynamic Multi-Vendor E-Commerce Platform with Laravel & AJAX  
-
-Build a feature-rich multi-vendor e-commerce platform using Laravel, PHP, Bootstrap, and AJAX. Designed for scalability, real-time interactions, and a seamless user experience, this project integrates cutting-edge web technologies to create an efficient online marketplace."
-
-Let me know if you'd like a longer description or adjustments!
-
 ## Table of Contents  
 - [About EliteDev Emon](#about-elitedev-emon)  
 - [Laravel](#laravel)  
