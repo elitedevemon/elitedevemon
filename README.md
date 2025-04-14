@@ -1,3 +1,5 @@
+<p align="center"><a href="https://www.facebook.com/elitedevemon" target="_blank"><img src="https://avatars.githubusercontent.com/u/95601606?v=4" width="300" height="300" alt="EliteDev Emon|elitedevemon|elitedev_emon"></a></p>
+
 ## Table of Contents  
 - [About EliteDev Emon](#about-elitedev-emon)  
 - [Laravel](#laravel)  
@@ -12,10 +14,6 @@
 - [Collaboration Oriented Pitch](#collaboration-oriented-pitch)
 - [Special Offer](#special-offer)
 - [License](#license)
-
-
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/95601606?v=4" width="300" height="300" alt="EliteDev Emon|elitedevemon|elitedev_emon"></a></p>
-
 
 ## About EliteDev Emon
 
