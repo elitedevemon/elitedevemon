@@ -18,7 +18,7 @@
       @include('components.card')
 
       <!-- sidebar overlay menu -->
-      @include('components.overlay-sidebar-menu')
+      {{-- @include('components.overlay-sidebar-menu') --}}
 
       <!-- Card - Main content -->
       @include('components.main-content')

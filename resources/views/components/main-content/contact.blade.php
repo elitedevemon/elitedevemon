@@ -157,7 +157,7 @@
             </div>
           </div>
         </section>
-        <section
+        {{-- <section
           class="elementor-section elementor-top-section elementor-element elementor-element-cebed38 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
           id="contact-form" data-id="cebed38" data-element_type="section">
           <div class="elementor-container elementor-column-gap-custom">
@@ -253,7 +253,7 @@
               </div>
             </div>
           </div>
-        </section>
+        </section> --}}
       </div>
     </div><!-- #post-53 -->
   </div>

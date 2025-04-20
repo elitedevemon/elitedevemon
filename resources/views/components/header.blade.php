@@ -26,9 +26,9 @@
   </div>
 
   <!-- menu btn -->
-  <div class="menu-btn btn-next-visible">
+  {{-- <div class="menu-btn btn-next-visible">
     <span></span>
-  </div>
+  </div> --}}
 
   <!-- menu -->
   <div class="top-menu top-menu-onepage menu-minimal">
@@ -46,15 +46,15 @@
         <li class="menu-item menu-item-type-post_type menu-item-object-page" data-id="menu-item-2156"><a
             class="one-page-menu-item" href="#services"><span class="icon fas fa-tools"></span><span
               class="name">Services</span></a></li>
-        <li class="menu-item menu-item-type-post_type menu-item-object-page" data-id="menu-item-2159"><a
+        {{-- <li class="menu-item menu-item-type-post_type menu-item-object-page" data-id="menu-item-2159"><a
             class="one-page-menu-item" href="#works"><span class="icon fas fa-briefcase"></span><span
-              class="name">Projects</span></a></li>
+              class="name">Projects</span></a></li> --}}
         <li class="menu-item menu-item-type-post_type menu-item-object-page" data-id="menu-item-2155"><a
             class="one-page-menu-item" href="#resume"><span class="icon fas fa-university"></span><span
               class="name">Resume</span></a></li>
-        <li class="menu-item menu-item-type-post_type menu-item-object-page" data-id="menu-item-2150"><a
+        {{-- <li class="menu-item menu-item-type-post_type menu-item-object-page" data-id="menu-item-2150"><a
             class="one-page-menu-item" href="#blog"><span class="icon far fa-newspaper"></span><span
-              class="name">Articles</span></a></li>
+              class="name">Articles</span></a></li> --}}
         <li class="menu-item menu-item-type-post_type menu-item-object-page" data-id="menu-item-2153"><a
             class="one-page-menu-item" href="#contact"><span class="icon fas fa-paper-plane"></span><span
               class="name">Contact</span></a></li>
